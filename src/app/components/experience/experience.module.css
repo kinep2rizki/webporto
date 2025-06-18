@@ -51,3 +51,15 @@
   line-height: 1.6;
   color: var(--text-secondary);
 }
+
+@media (max-width: 480px) {
+  .item {
+    gap: 12px;
+    padding: 16px;
+  }
+
+  .logo {
+    width: 45px;
+    height: 45px;
+  }
+}

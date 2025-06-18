@@ -32,3 +32,21 @@
 .navLinks a:hover {
   color: var(--accent-color);
 }
+
+@media (max-width: 768px) {
+  .navbar {
+    padding: 16px;
+  }
+
+  .logo {
+    font-size: 1.25rem;
+  }
+
+  .navLinks {
+    gap: 16px;
+  }
+
+  .navLinks a {
+    font-size: 1rem;
+  }
+}

@@ -2,8 +2,6 @@
 
 Selamat datang di repositori portofolio pribadi saya! Proyek ini adalah sebuah etalase digital yang menampilkan keahlian, proyek, dan pengalaman profesional saya, dibangun dengan kecepatan dan kekuatan **Next.js**.
 
-[![Portfolio Screenshot](/public/sijaga.png)](https://your-live-demo-link.com)
-> *Klik gambar di atas untuk melihat demo langsung (jangan lupa ganti linknya!)*
 
 ---
 

@@ -1,0 +1,34 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 32px;
+  background-color: var(--card-color);
+  border-bottom: 1px solid var(--accent-color);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  width: 100%;
+}
+
+.logo {
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: var(--text-secondary);
+}
+
+.navLinks {
+  display: flex;
+  gap: 32px;
+  list-style: none;
+}
+
+.navLinks a {
+  font-size: 1.1rem;
+  color: var(--text-secondary);
+  transition: color 0.2s ease-in-out;
+}
+
+.navLinks a:hover {
+  color: var(--accent-color);
+}

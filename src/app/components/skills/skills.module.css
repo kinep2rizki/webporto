@@ -1,0 +1,21 @@
+.title {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 32px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+.skill {
+  background-color: var(--card-color);
+  border: 1px solid var(--border-color);
+  padding: 8px 16px;
+  border-radius: 20px;
+  font-weight: 500;
+  color: #F7F7FF; /* Add this line to change the text color */
+}

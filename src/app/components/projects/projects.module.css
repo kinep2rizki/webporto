@@ -1,0 +1,50 @@
+.title {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 48px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+  justify-items: center;
+}
+
+.card {
+  background-color: var(--card-color);
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  padding: 24px;
+  transition: transform 0.2s ease-in-out, border-color 0.2s ease-in-out;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  border-color: var(--accent-color);
+}
+
+.cardImage {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+  margin-bottom: 16px;
+  object-fit: cover; /* Add this line */
+}
+
+.card h3 {
+  font-size: 1.5rem;
+  color: var(--accent-color);
+  margin-bottom: 12px;
+}
+
+.card p {
+  color: var(--text-secondary);
+  line-height: 1.6;
+}
+
+.contribution {
+  margin-top: 12px;
+  font-style: italic;
+  font-size: 0.9rem;
+}

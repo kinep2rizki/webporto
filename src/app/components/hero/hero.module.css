@@ -1,0 +1,42 @@
+.hero {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 48px;
+  min-height: 80vh;
+  flex-wrap: wrap-reverse;
+}
+
+.heroContent {
+  max-width: 500px;
+}
+
+.greeting {
+  font-size: 1.2rem;
+  color: var(--accent-color);
+}
+
+.name {
+  font-size: 3rem;
+  margin: 8px 0 24px;
+}
+
+.aboutText p {
+  font-size: 1.1rem;
+  color: var(--card-color);
+  line-height: 1.6;
+}
+
+.aboutText p:last-child {
+  margin-top: 16px;
+}
+
+.heroImageContainer {
+  flex-shrink: 0;
+}
+
+.heroImage {
+  border-radius: 50%;
+  border: 3px solid var(--border-color);
+  object-fit: cover;
+}

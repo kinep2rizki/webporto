@@ -80,7 +80,7 @@ Jangan ragu untuk menghubungi saya! Saya selalu terbuka untuk berdiskusi, berkol
 
 -   **LinkedIn**: [@rizkinugrohofirdaus](https://www.linkedin.com/in/rizkinugrohofirdaus)
 -   **Email**: [rizkinugrohofirdaus@gmail.com](mailto:rizkinf2004@gmail.com)
--   **Instagram**: [@rizkinugrohof](https://www.instagram.com/kinep2rizki?utm_source=qr&igsh=MWdsdmNwN2pwNGFnZg==)
+-   **Instagram**: [@kinep2rizki](https://www.instagram.com/kinep2rizki?utm_source=qr&igsh=MWdsdmNwN2pwNGFnZg==)
 
 ---
 
